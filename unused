@@ -1,0 +1,17 @@
+   <div class="hire-us-section">
+        <h2>Hire Us For</h2>
+        <div class="services">
+            <div class="service">
+                <h3>Design</h3>
+                <p>Our web design team has ample years of experience in the core areas of design to build a website that you need.</p>
+            </div>
+            <div class="service">
+                <h3>Development</h3>
+                <p>Looking out for customized solutions for your websites? Our team will develop and deliver a website that'll serve your purpose.</p>
+            </div>
+            <div class="service">
+                <h3>Marketing</h3>
+                <p>With researched digital marketing, we will ensure that new customers and clients are able to find your business.</p>
+            </div>
+        </div>
+      </div> 
